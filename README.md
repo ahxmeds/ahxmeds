@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Shadab!
 
-<!--
-**ahxmeds/ahxmeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+- 🎓 Finishing my PhD in Physics at UBC, specializing in AI for Medical Imaging.
+- 💻 Experienced in deep learning, especially anomaly detection, generative modeling and inverse problems.
+- 🛠️ Skilled in PyTorch, Python, and scientific computing.
+- 🌱 Currently working on multiscale modeling & weakly-supervised anomaly detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 How to Reach Me
+
+- [Email](mailto:shadab.ahamed@hotmail.com)
+
+## 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahxmeds&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahxmeds&show_icons=true&theme=default)
+
+## 🧠 Skills
+
+- **Languages**: Python, C++, MATLAB
+- **Frameworks**: PyTorch, MONAI
+- **Fields**: Deep Learning, Medical Imaging, Multiscale Modeling, Generative Models
