@@ -3,7 +3,7 @@
 ## 🧠 About Me
 
 - 🎓 Currently, a Postdoctoral Fellow at UBC!
-- 🎓 Finishing my PhD in Physics at UBC, specializing in AI for Medical Imaging.
+- 🎓 PhD in Physics from UBC; specialized in deep learning for medical imaging analysis.
 - 💻 Experienced in deep learning for anomaly detection, generative modeling, multiscale modeling and inverse problems.
 - 🛠️ Skilled in PyTorch, Python, and scientific computing.
 - 🌱 Currently working on generative modeling and multiscale modeling.
